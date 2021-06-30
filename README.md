@@ -1,4 +1,4 @@
-# Eddy Martínez Profile
+# Eddy Martínez profile
 
 Mechatronics Engineer. Robotics Engineering MSc
 • Creator of Automation solutions for manufacturing environments
